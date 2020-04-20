@@ -1,2 +1,2 @@
 # potentiel-discret
-mise à jour 18 avril
+mise à jour mineure 20-04l
