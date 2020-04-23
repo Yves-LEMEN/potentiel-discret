@@ -1,2 +1,2 @@
 # potentiel-discret
-ajouté variation du pas d'intégration
+ajouté interpolations cubiques
