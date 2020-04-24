@@ -1,2 +1,2 @@
 # potentiel-discret
-ajouté interpolations cubiques
+Test du pas dt requis pour le calcul de dV/dt
